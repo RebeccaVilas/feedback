@@ -47,7 +47,7 @@ body {
     font-size: 15px;
     color: var(--orange);
 
-    margin-bottom: 32px;
+    margin-bottom: 32;
 }
 
 .card h1 {
